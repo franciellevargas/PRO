@@ -1,4 +1,4 @@
-#Resource for aspect-based opinon mining and summarizationapplications from reviews in Portuguese.
+#Resource for aspect-based opinon mining and summarizationapplications from product reviews in Portuguese.
 
 
 Aspect ontologies - groups of (hierarchically organized) opinion aspects for supporting opinion mining tasks, including the domains of smartphones, digital cameras and books, in OWL format.
