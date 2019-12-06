@@ -1,5 +1,4 @@
-
-![nilc](https://user-images.githubusercontent.com/19657817/70325238-569e9c00-1810-11ea-8063-d3ee70dfb7fc.png) ![1200px-Webysther_20170627_-_Logo_ICMC-USP svg](https://user-images.githubusercontent.com/19657817/70325372-95345680-1810-11ea-96bd-90d2bbf45dc6.png)
+![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png) ![Screenshot from 2019-08-22 12-36-57](https://user-images.githubusercontent.com/19657817/63529275-ccd5f780-c4da-11e9-9d2c-dce592d855e7.png) 
 
 #Semantic resource for aspect-based sentiment analysis and text summarization applications from product reviews in Portuguese.
 
