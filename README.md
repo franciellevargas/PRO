@@ -2,7 +2,7 @@
 
 #Semantic resource for aspect-based sentiment analysis and text summarization applications in Portuguese.
 
-In this path, we are providing three fine-grained taxonomies for aspect-based sentiment analysis and text summarization applications. The Aspect ontologies - groups of (hierarchically organized) fine-grained opinions - including the smartphones, digital cameras, and books domains. The provided taxonomies are available in OWL format.
+In this path, we are providing three fine-grained taxonomies for aspect-based sentiment analysis and text summarization applications. The Aspect ontologies - groups of (hierarchically organized) explicit and implicit fine-grained opinions - including the smartphones, digital cameras, and books domains. The provided taxonomies are available in OWL format.
 
 
 HOW MAY I CITE THIS RESOURCE?
