@@ -1,5 +1,3 @@
-![SSC-logo-300x171](https://user-images.githubusercontent.com/19657817/63529693-77e6b100-c4db-11e9-9385-7d9b109427a2.png) 
-
 <h2 align="center"> PRO - Taxononies of Aspects for Aspect-Based Sentiment Analysis in Portuguese </h2>  
 
 In this project, we are providing three fine-grained taxonomies for aspect-based sentiment analysis and text summarization applications. The taxonomies of aspect (hierarchically organized) contain explicit and implicit aspects from user consumers reviews related to smartphones, digital cameras, and books. The provided taxonomies are available in OWL format.
