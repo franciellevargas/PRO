@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/19657817/183250180-a7e90563-ffb9-4c94-94da-d561c67f7b1a.png)
+![image](https://user-images.githubusercontent.com/19657817/183250300-0cd26336-b33e-4353-ba9d-31f6f36181da.png)
 
 
 <h2 align="center"> PRO - Taxonomies for aspect-based sentiment analysis </h2>  
