@@ -1,4 +1,4 @@
-<h2 align="center"> PRO - Taxononies of Aspects for Aspect-Based Sentiment Analysis in Portuguese </h2>  
+<h2 align="center"> PRO - Taxonomies for aspect-based sentiment analysis </h2>  
 
 In this project, we are providing three fine-grained taxonomies for aspect-based sentiment analysis and text summarization applications. The taxonomies of aspect (hierarchically organized) contain explicit and implicit aspects from user consumers reviews related to smartphones, digital cameras, and books. The provided taxonomies are available in OWL format.
 
