@@ -8,7 +8,7 @@ In this project, we are providing three fine-grained taxonomies for aspect-based
 
 <h3 align="left"> Citing </h3>
 
-<p align="justify"> Vargas, F.A. and Pardo, T.A.S. (2017). "Aspect clustering methods for sentiment analysis". Proceedings of the 13th International Conference on the Computational Processing of Portuguese (PROPOR 2018), pp. 365–374. Canela, Brazil </p>. 
+<p align="justify"> Vargas, F.A. and Pardo, T.A.S. (2017). <b>Aspect clustering methods for sentiment analysis</b>. Proceedings of the 13th International Conference on the Computational Processing of Portuguese (PROPOR 2018), pp. 365–374. Canela, Brazil </p>. 
 
 
  <b>BIBTEX</b>
