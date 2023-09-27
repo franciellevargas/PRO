@@ -23,6 +23,7 @@ In this project, we are providing three fine-grained taxonomies for aspect-based
  url = {https://link.springer.com/chapter/10.1007/978-3-319-99722-3_37}}
 </p>
 
+<br>
 <h2 align="left">Acknowledgement</h2> 
 
 The authors are grateful to CAPES, FAPESP, and USP Research Office for supporting this work.
