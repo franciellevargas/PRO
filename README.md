@@ -1,5 +1,4 @@
-![image]([https://user-images.githubusercontent.com/19657817/183250300-0cd26336-b33e-4353-ba9d-31f6f36181da.png](https://github.com/franciellevargas/franciellevargas.github.io/blob/f5ebffdcf9ff1c1f1a80913ab5908356d79cf821/img/icmc-logo.png])
-
+https://github.com/franciellevargas/franciellevargas.github.io/blob/f5ebffdcf9ff1c1f1a80913ab5908356d79cf821/img/icmc-logo.png
 
 <h2 align="center"> PRO - Taxonomies for Aspect-Based Sentiment Analysis </h2>  
 
