@@ -2,7 +2,7 @@
 
 <h2 align="center"> PRO - Taxonomies for Aspect-Based Sentiment Analysis </h2>  
 
-In this project, we are providing three fine-grained taxonomies for aspect-based sentiment analysis and text summarization applications. The taxonomies of aspect (hierarchically organized) contain explicit and implicit aspects from user consumers reviews related to smartphones, digital cameras, and books. The provided taxonomies are available in OWL format.
+In this project, we are providing three fine-grained taxonomies for aspect-based sentiment analysis and text summarization applications in Portuguese. The taxonomies of aspect (hierarchically organized) contain explicit and implicit aspects from user consumers reviews related to smartphones, digital cameras, and books. The provided taxonomies are available in OWL format.
 
 
 <h2 align="left"> CITING </h2>
