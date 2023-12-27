@@ -1,4 +1,4 @@
-https://github.com/franciellevargas/franciellevargas.github.io/blob/f5ebffdcf9ff1c1f1a80913ab5908356d79cf821/img/icmc-logo.png
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7e5fe34063f89296b17f8c255b89360dfef75761/.github/icmc.png)
 
 <h2 align="center"> PRO - Taxonomies for Aspect-Based Sentiment Analysis </h2>  
 
