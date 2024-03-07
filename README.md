@@ -23,6 +23,7 @@ We provided three fine-grained taxonomies for aspect-based sentiment analysis an
 </p>
 
 <br>
-<h2 align="left">Acknowledgement</h2> 
 
-The authors are grateful to CAPES, FAPESP, and the USP Research Office for supporting this work.
+<h2 align="left"> FUNDING </h2>
+
+![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/e5ccb9cd6b43c26edacb2c4abd32fd75f8a574a2/.github/logo_novo_english.gif) 
