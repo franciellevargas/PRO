@@ -1,8 +1,8 @@
-![SSC-logo-300x171](https://github.com/franciellevargas/HateBR/blob/7e5fe34063f89296b17f8c255b89360dfef75761/.github/icmc.png) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10795201.svg)](https://doi.org/10.5281/zenodo.10795202)
 
-<h2 align="center"> PRO - Taxonomies for Aspect-Based Sentiment Analysis </h2>  
+<h2 align="center"> TaxinoPro - Taxonomies for Aspect-Based Sentiment Analysis </h2>  
 
-In this project, we are providing three fine-grained taxonomies for aspect-based sentiment analysis and text summarization applications in Portuguese. The taxonomies of aspect (hierarchically organized) contain explicit and implicit aspects from user consumers reviews related to smartphones, digital cameras, and books. The provided taxonomies are available in OWL format.
+We provided three fine-grained taxonomies for aspect-based sentiment analysis and text summarization applications in Portuguese. The taxonomies of aspect (hierarchically organized) contain explicit and implicit aspects (also known as fine-grained opinions) from user consumer reviews related to <b>smartphones</b>, <b>digital cameras</b>, and <b>books</b>. The taxonomies are available in <b>OWL format</b>.
 
 
 <h2 align="left"> CITING </h2>
@@ -25,4 +25,4 @@ In this project, we are providing three fine-grained taxonomies for aspect-based
 <br>
 <h2 align="left">Acknowledgement</h2> 
 
-The authors are grateful to CAPES, FAPESP, and USP Research Office for supporting this work.
+The authors are grateful to CAPES, FAPESP, and the USP Research Office for supporting this work.
