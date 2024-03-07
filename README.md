@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10795201.svg)](https://doi.org/10.5281/zenodo.10795202)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10795287.svg)](https://doi.org/10.5281/zenodo.10795287)
 
 <h2 align="center"> TaxinoPro - Taxonomies for Aspect-Based Sentiment Analysis </h2>  
 
