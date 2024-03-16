@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10795287.svg)](https://doi.org/10.5281/zenodo.10795287)
 
-<h2 align="center"> TaxinoPro - Taxonomies for Aspect-Based Sentiment Analysis </h2>  
+<h2 align="center"> TaxinoPro-pt - Taxonomies for Aspect-Based Sentiment Analysis in Portuguese</h2>  
 
 We provided 3(three) fine-grained taxonomies for aspect-based sentiment analysis and opinion summarization applications in Portuguese. The taxonomies of fine-grained opinions (hierarchically organized aspects) contain explicit and implicit aspects extracted web reviews on <b>smartphones</b>, <b>digital cameras</b>, and <b>books</b>. The taxonomies are available in <b>OWL format</b>.
 
