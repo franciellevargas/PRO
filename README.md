@@ -2,15 +2,9 @@
 
 <h2 align="center"> PRO - Taxonomies for Aspect-Based Sentiment Analysis in Portuguese</h2>  
 
-<p align="justify"> We provided 3 (three) fine-grained taxonomies for aspect-based sentiment analysis and opinion summarization applications in Portuguese. The taxonomies of fine-grained opinions (hierarchically organized aspects) contain explicit and implicit aspects extracted web reviews on <b>smartphones</b>, <b>digital cameras</b>, and <b>books</b>. The taxonomies are available in <b>OWL format</b>.
+<p align="justify">We provide three fine-grained taxonomies for aspect-based sentiment analysis and opinion summarization applications in Portuguese. These hierarchically organized taxonomies contain explicit and implicit aspects extracted from web reviews of <b>smartphones</b>, <b>digital cameras</b>, and <b>books</b>. The taxonomies are available in <b>OWL</b> format.</b>.
 </p>
 
-<br>
-<h2 align="left"> CITING </h2>
-
-<p align="justify"> Vargas, F.A. and Pardo, T.A.S. (2017). <b>Aspect clustering methods for sentiment analysis</b>. Proceedings of the 13th International Conference on the Computational Processing of Portuguese (PROPOR 2018), pp. 365–374. Canela, Brazil </p>. 
-
-<br>
 
 <h2 align="left"> CITING / BIBTEX </h2>
 
