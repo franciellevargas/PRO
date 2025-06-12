@@ -12,8 +12,10 @@
 
 <br>
 
- <h2 align="left">BIBTEX </h2>
-<p align="justify">
+<h2 align="left"> CITING / BIBTEX </h2>
+
+Please cite our paper if you use our taxonomies:
+```bibtex
 @inproceedings{Vargasetal2018,
  author = {Vargas, F. and Pardo, T. A. S.},
  title = {Aspect clustering methods for sentiment analysis},
@@ -21,10 +23,9 @@
  year = {2018},
  pages = {365–374},
  address = {Canela, Brazil},
- url = {https://link.springer.com/chapter/10.1007/978-3-319-99722-3_37}}
-</p>
-
-<br>
+ url = {https://link.springer.com/chapter/10.1007/978-3-319-99722-3_37}
+}
+```
 
 <h2 align="left"> FUNDING </h2>
 
